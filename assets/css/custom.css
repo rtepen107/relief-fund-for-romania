@@ -34,3 +34,24 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+ /* This is the background color for the inverted content sections */
+ .post.style1.invert .content{
+   background: rgb(114, 182, 202) !important;
+ }
+ .post.style2.invert .content{
+   background: rgb(114, 182, 202) !important;
+ }
+ /* This is the text color for post style 1 headers content sections */
+ .post.style1 a{
+     color: rgb(114, 182, 202);
+ }
+ .post.style2 a{
+     color: rgb(114, 182, 202);
+ }
+ /* This is the text color for the read more buttons */
+ .post.style1 .button.alt {
+     color: rgb(114, 182, 202) !important;
+ }
+ .post.style2 .button.alt{
+   color: rgb(114, 182, 202) !important;
+ }

@@ -3900,7 +3900,7 @@ take precedence the ones in this file. */
 				.post.style1.invert button,
 				.post.style1.invert .button {
 					background-color: #fff;
-					color: #1abc9c !important;
+					color: #1abc9c;
 				}
 
 					.post.style1.invert input[type="submit"].alt,
